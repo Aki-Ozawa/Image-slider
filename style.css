@@ -34,7 +34,7 @@
     background-position: 50% 50%;
     background-size: cover;
     display: inline-block;
-    /* applies a smooth transition effect for chnages */
+    /* applies a smooth transition effect for changes */
     transition: 0.5s;
   }
 
